@@ -1,0 +1,34 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    height:4rem;
+    position:fixed;
+    bottom:0px;
+    width:100%;
+    left:0px;
+      
+}
+.section_padding{
+  padding: 4rem 4rem;
+}
+
+.socialMedia img{
+    width: 45px;
+    height: 45px;
+}
+.socialMedia{
+  display:flex;
+  flex-direction:row;
+  align-items:center;
+  padding-top:2rem;
+  padding-right:1rem;
+ 
+ 
+}
+.footer_copyright{
+  color:grey;
+  padding-left:1rem
+}
