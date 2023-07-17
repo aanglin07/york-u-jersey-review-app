@@ -9,7 +9,7 @@ return(
     <header className = "page_header"> 
       <ul>
       <li><h1>Jersey Review.com</h1></li>
-      <div className = "wishCart">
+      <div className = "regLog_format">
       <li><NavLink>Login</NavLink></li> |
       <li><NavLink>Register</NavLink></li>
       </div>

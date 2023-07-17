@@ -5,7 +5,7 @@ h1{
     margin-top: 0px;
    }
 
-.wishCart{
+.regLog_format{
     display: flex;
     justify-content: flex-end;
     justify-content: space-between;
@@ -61,7 +61,7 @@ ul li a{
         font-size: 40px;
         padding-right: 30px;
   }
-  .wishCart{
+  .regLog_format{
     display: flex;
     justify-content: flex-end;
     justify-content: space-between;
@@ -81,7 +81,7 @@ ul li a{
         padding-right: 30px;
   }
 
-  .wishCart{
+  .regLog_format{
     width:10%
   }
 }
@@ -92,7 +92,7 @@ ul li a{
         padding-right: 30px;
   }
 
-  .wishCart{
+  .regLog_format{
     width:11%
   }
   ul li a{
@@ -106,7 +106,7 @@ ul li a{
         padding-right: 30px;
   }
 
-  .wishCart{
+  .regLog_format{
     width:11%
   }
 }
@@ -117,7 +117,7 @@ ul li a{
         padding-right: 30px;
   }
 
-  .wishCart{
+  .regLog_format{
     width:12%
   }
   ul li a{
@@ -132,7 +132,7 @@ ul li a{
         padding-right: 30px;
   }
 
-  .wishCart{
+  .regLog_format{
     width:12%
   }
   ul li a{
