@@ -45,14 +45,14 @@ nav ul li a:not(.active):hover{
 }
 
 nav .navMenu{
-  display:none;
-  position:relative;
-  top:-50px;
-  left:0.5rem;
-  flex-direction:column;
-  justify-content:space-between;
-  width:2.25rem;
-  height:2rem;
+    display:none;
+    position:relative;
+    top:-50px;
+    left:0.5rem;
+    flex-direction:column;
+    justify-content:space-between;
+    width:2.25rem;
+    height:2rem;
 }
 
 nav .navMenu span{
